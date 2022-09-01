@@ -1,5 +1,4 @@
-NAME: Leslie Hwang
-STUDENT ID: 1162445741
+Leslie Hwang (1162445741)
 
 # :wave: The Basics of GitHub 
 
