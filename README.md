@@ -1,3 +1,6 @@
+NAME: Leslie Hwang
+STUDENT ID: 1162445741
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
